@@ -1,6 +1,6 @@
 # U-Command 
-Uploader + Shell Command 
+Uploader + Command Execution
 
 # Fitur
 * Login Page
-* Shell Command
+* Command Execution
